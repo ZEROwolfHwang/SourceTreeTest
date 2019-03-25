@@ -1,0 +1,11 @@
+Index: App.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- App.js	(date 1553516667000)
++++ App.js	(date 1553516667000)
+@@ -0,0 +1,3 @@
++{
++    name:"name"
++}
